@@ -1,0 +1,6 @@
+{
+  "name": "English Language Blog",
+  "description": "A professional blog and resource platform for learning and teaching English, featuring grammar lessons, vocabulary, premium writing guides, sample essays, a mock payment checkout system, and an admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
